@@ -7,7 +7,7 @@ import json
 response = []
 
 # Prepare for parsing with BeautifulSoup
-browser = webdriver.Chrome()
+browser = webdriver.Chrome('/Users/ChandlerCapps/anaconda/bin/chromedriver')
 urlResponse = browser.get('http://na.op.gg/statistics/champion/')
 html = browser.page_source
 soupOPGG = BeautifulSoup(html, 'lxml')
@@ -25,12 +25,11 @@ for pos in anchor.find_all('tr', class_='Row'):
         champGames = pos.find_all('td', class_='Cell')[4].string.strip()
 
         # Make changes to response
-        response.append({'Champion Name': champName, 'Champion Rank': champRank, 'Win Percentage': champWinPercentage,
-                         'Number of Games': champGames})
+        response.append({'Champion Name': champName, 'Champion Rank': champRank, 'Win Percentage': champWinPercentage, 'Number of Games': champGames})
 
 # Write response to JSON file
 today = str(datetime.datetime.now().date())
-postingsFile = 'JSON/' + today + '_OPGG_WinPercentage.json'
+postingsFile = '/Users/ChandlerCapps/Desktop/CSC3130/WebProject_Chandler/JSON/' + today + '_OPGG_WinPercentage.json'
 
 with open(postingsFile, 'w') as outfile:
     json.dump(response, outfile, sort_keys=True, indent=2)
