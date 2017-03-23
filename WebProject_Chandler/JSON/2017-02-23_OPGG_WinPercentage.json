@@ -1,0 +1,806 @@
+[
+  {
+    "Champion Name": "Anivia",
+    "Champion Rank": "1",
+    "Number of Games": "118,502",
+    "Win Percentage": "52.86%"
+  },
+  {
+    "Champion Name": "Swain",
+    "Champion Rank": "2",
+    "Number of Games": "200,793",
+    "Win Percentage": "52.66%"
+  },
+  {
+    "Champion Name": "Sona",
+    "Champion Rank": "3",
+    "Number of Games": "360,357",
+    "Win Percentage": "52.16%"
+  },
+  {
+    "Champion Name": "Miss Fortune",
+    "Champion Rank": "4",
+    "Number of Games": "799,436",
+    "Win Percentage": "52.12%"
+  },
+  {
+    "Champion Name": "Shaco",
+    "Champion Rank": "5",
+    "Number of Games": "257,491",
+    "Win Percentage": "51.95%"
+  },
+  {
+    "Champion Name": "Ziggs",
+    "Champion Rank": "6",
+    "Number of Games": "284,918",
+    "Win Percentage": "51.80%"
+  },
+  {
+    "Champion Name": "Janna",
+    "Champion Rank": "7",
+    "Number of Games": "336,547",
+    "Win Percentage": "51.60%"
+  },
+  {
+    "Champion Name": "Blitzcrank",
+    "Champion Rank": "8",
+    "Number of Games": "517,966",
+    "Win Percentage": "51.57%"
+  },
+  {
+    "Champion Name": "Quinn",
+    "Champion Rank": "9",
+    "Number of Games": "250,159",
+    "Win Percentage": "51.44%"
+  },
+  {
+    "Champion Name": "Sion",
+    "Champion Rank": "10",
+    "Number of Games": "172,457",
+    "Win Percentage": "51.40%"
+  },
+  {
+    "Champion Name": "Ahri",
+    "Champion Rank": "11",
+    "Number of Games": "407,155",
+    "Win Percentage": "51.38%"
+  },
+  {
+    "Champion Name": "Yorick",
+    "Champion Rank": "12",
+    "Number of Games": "119,515",
+    "Win Percentage": "51.29%"
+  },
+  {
+    "Champion Name": "Wukong",
+    "Champion Rank": "13",
+    "Number of Games": "277,163",
+    "Win Percentage": "51.06%"
+  },
+  {
+    "Champion Name": "Xerath",
+    "Champion Rank": "14",
+    "Number of Games": "151,564",
+    "Win Percentage": "51.02%"
+  },
+  {
+    "Champion Name": "Vel'Koz",
+    "Champion Rank": "15",
+    "Number of Games": "195,220",
+    "Win Percentage": "50.92%"
+  },
+  {
+    "Champion Name": "Talon",
+    "Champion Rank": "16",
+    "Number of Games": "268,244",
+    "Win Percentage": "50.89%"
+  },
+  {
+    "Champion Name": "Ivern",
+    "Champion Rank": "17",
+    "Number of Games": "129,304",
+    "Win Percentage": "50.86%"
+  },
+  {
+    "Champion Name": "Graves",
+    "Champion Rank": "18",
+    "Number of Games": "511,496",
+    "Win Percentage": "50.77%"
+  },
+  {
+    "Champion Name": "Zyra",
+    "Champion Rank": "19",
+    "Number of Games": "387,515",
+    "Win Percentage": "50.74%"
+  },
+  {
+    "Champion Name": "Soraka",
+    "Champion Rank": "20",
+    "Number of Games": "287,741",
+    "Win Percentage": "50.74%"
+  },
+  {
+    "Champion Name": "Brand",
+    "Champion Rank": "21",
+    "Number of Games": "392,819",
+    "Win Percentage": "50.71%"
+  },
+  {
+    "Champion Name": "Annie",
+    "Champion Rank": "22",
+    "Number of Games": "343,579",
+    "Win Percentage": "50.58%"
+  },
+  {
+    "Champion Name": "Xin Zhao",
+    "Champion Rank": "23",
+    "Number of Games": "246,810",
+    "Win Percentage": "50.52%"
+  },
+  {
+    "Champion Name": "Zac",
+    "Champion Rank": "24",
+    "Number of Games": "229,272",
+    "Win Percentage": "50.45%"
+  },
+  {
+    "Champion Name": "Jarvan IV",
+    "Champion Rank": "25",
+    "Number of Games": "168,322",
+    "Win Percentage": "50.45%"
+  },
+  {
+    "Champion Name": "Tryndamere",
+    "Champion Rank": "26",
+    "Number of Games": "251,584",
+    "Win Percentage": "50.40%"
+  },
+  {
+    "Champion Name": "Vi",
+    "Champion Rank": "27",
+    "Number of Games": "459,974",
+    "Win Percentage": "50.36%"
+  },
+  {
+    "Champion Name": "Nocturne",
+    "Champion Rank": "28",
+    "Number of Games": "162,441",
+    "Win Percentage": "50.33%"
+  },
+  {
+    "Champion Name": "Amumu",
+    "Champion Rank": "29",
+    "Number of Games": "197,684",
+    "Win Percentage": "50.29%"
+  },
+  {
+    "Champion Name": "Garen",
+    "Champion Rank": "30",
+    "Number of Games": "313,352",
+    "Win Percentage": "50.28%"
+  },
+  {
+    "Champion Name": "Draven",
+    "Champion Rank": "31",
+    "Number of Games": "363,260",
+    "Win Percentage": "50.22%"
+  },
+  {
+    "Champion Name": "Pantheon",
+    "Champion Rank": "32",
+    "Number of Games": "259,956",
+    "Win Percentage": "50.16%"
+  },
+  {
+    "Champion Name": "Nami",
+    "Champion Rank": "33",
+    "Number of Games": "309,633",
+    "Win Percentage": "50.14%"
+  },
+  {
+    "Champion Name": "Taric",
+    "Champion Rank": "34",
+    "Number of Games": "124,341",
+    "Win Percentage": "50.11%"
+  },
+  {
+    "Champion Name": "Singed",
+    "Champion Rank": "35",
+    "Number of Games": "134,920",
+    "Win Percentage": "50.09%"
+  },
+  {
+    "Champion Name": "Leona",
+    "Champion Rank": "36",
+    "Number of Games": "397,511",
+    "Win Percentage": "49.96%"
+  },
+  {
+    "Champion Name": "Rammus",
+    "Champion Rank": "37",
+    "Number of Games": "96,118",
+    "Win Percentage": "49.95%"
+  },
+  {
+    "Champion Name": "Corki",
+    "Champion Rank": "38",
+    "Number of Games": "311,829",
+    "Win Percentage": "49.93%"
+  },
+  {
+    "Champion Name": "Zilean",
+    "Champion Rank": "39",
+    "Number of Games": "129,148",
+    "Win Percentage": "49.89%"
+  },
+  {
+    "Champion Name": "Kled",
+    "Champion Rank": "40",
+    "Number of Games": "92,171",
+    "Win Percentage": "49.88%"
+  },
+  {
+    "Champion Name": "Shyvana",
+    "Champion Rank": "41",
+    "Number of Games": "163,544",
+    "Win Percentage": "49.78%"
+  },
+  {
+    "Champion Name": "Malphite",
+    "Champion Rank": "42",
+    "Number of Games": "263,499",
+    "Win Percentage": "49.78%"
+  },
+  {
+    "Champion Name": "Renekton",
+    "Champion Rank": "43",
+    "Number of Games": "239,177",
+    "Win Percentage": "49.76%"
+  },
+  {
+    "Champion Name": "Malzahar",
+    "Champion Rank": "44",
+    "Number of Games": "423,978",
+    "Win Percentage": "49.74%"
+  },
+  {
+    "Champion Name": "Jhin",
+    "Champion Rank": "45",
+    "Number of Games": "1,259,176",
+    "Win Percentage": "49.72%"
+  },
+  {
+    "Champion Name": "Varus",
+    "Champion Rank": "46",
+    "Number of Games": "794,862",
+    "Win Percentage": "49.69%"
+  },
+  {
+    "Champion Name": "Nasus",
+    "Champion Rank": "47",
+    "Number of Games": "278,569",
+    "Win Percentage": "49.66%"
+  },
+  {
+    "Champion Name": "Kayle",
+    "Champion Rank": "48",
+    "Number of Games": "114,496",
+    "Win Percentage": "49.60%"
+  },
+  {
+    "Champion Name": "Jayce",
+    "Champion Rank": "49",
+    "Number of Games": "345,695",
+    "Win Percentage": "49.59%"
+  },
+  {
+    "Champion Name": "Hecarim",
+    "Champion Rank": "50",
+    "Number of Games": "379,683",
+    "Win Percentage": "49.50%"
+  },
+  {
+    "Champion Name": "Jax",
+    "Champion Rank": "51",
+    "Number of Games": "269,806",
+    "Win Percentage": "49.41%"
+  },
+  {
+    "Champion Name": "Kog'Maw",
+    "Champion Rank": "52",
+    "Number of Games": "47,994",
+    "Win Percentage": "49.35%"
+  },
+  {
+    "Champion Name": "Galio",
+    "Champion Rank": "53",
+    "Number of Games": "42,546",
+    "Win Percentage": "49.35%"
+  },
+  {
+    "Champion Name": "Darius",
+    "Champion Rank": "54",
+    "Number of Games": "371,604",
+    "Win Percentage": "49.28%"
+  },
+  {
+    "Champion Name": "Karthus",
+    "Champion Rank": "55",
+    "Number of Games": "54,515",
+    "Win Percentage": "49.28%"
+  },
+  {
+    "Champion Name": "Skarner",
+    "Champion Rank": "56",
+    "Number of Games": "38,635",
+    "Win Percentage": "49.22%"
+  },
+  {
+    "Champion Name": "Teemo",
+    "Champion Rank": "57",
+    "Number of Games": "305,430",
+    "Win Percentage": "49.17%"
+  },
+  {
+    "Champion Name": "Twitch",
+    "Champion Rank": "58",
+    "Number of Games": "240,342",
+    "Win Percentage": "49.15%"
+  },
+  {
+    "Champion Name": "Fiora",
+    "Champion Rank": "59",
+    "Number of Games": "308,181",
+    "Win Percentage": "49.08%"
+  },
+  {
+    "Champion Name": "Ekko",
+    "Champion Rank": "60",
+    "Number of Games": "381,303",
+    "Win Percentage": "49.06%"
+  },
+  {
+    "Champion Name": "Illaoi",
+    "Champion Rank": "61",
+    "Number of Games": "157,569",
+    "Win Percentage": "48.95%"
+  },
+  {
+    "Champion Name": "Rumble",
+    "Champion Rank": "62",
+    "Number of Games": "117,427",
+    "Win Percentage": "48.94%"
+  },
+  {
+    "Champion Name": "Maokai",
+    "Champion Rank": "63",
+    "Number of Games": "352,163",
+    "Win Percentage": "48.84%"
+  },
+  {
+    "Champion Name": "Irelia",
+    "Champion Rank": "64",
+    "Number of Games": "145,836",
+    "Win Percentage": "48.82%"
+  },
+  {
+    "Champion Name": "Kha'Zix",
+    "Champion Rank": "65",
+    "Number of Games": "588,215",
+    "Win Percentage": "48.80%"
+  },
+  {
+    "Champion Name": "Yasuo",
+    "Champion Rank": "66",
+    "Number of Games": "535,115",
+    "Win Percentage": "48.78%"
+  },
+  {
+    "Champion Name": "Nautilus",
+    "Champion Rank": "67",
+    "Number of Games": "438,481",
+    "Win Percentage": "48.70%"
+  },
+  {
+    "Champion Name": "Fizz",
+    "Champion Rank": "68",
+    "Number of Games": "231,350",
+    "Win Percentage": "48.70%"
+  },
+  {
+    "Champion Name": "Morgana",
+    "Champion Rank": "69",
+    "Number of Games": "533,701",
+    "Win Percentage": "48.65%"
+  },
+  {
+    "Champion Name": "Jinx",
+    "Champion Rank": "70",
+    "Number of Games": "441,805",
+    "Win Percentage": "48.65%"
+  },
+  {
+    "Champion Name": "Lulu",
+    "Champion Rank": "71",
+    "Number of Games": "225,863",
+    "Win Percentage": "48.62%"
+  },
+  {
+    "Champion Name": "Warwick",
+    "Champion Rank": "72",
+    "Number of Games": "619,180",
+    "Win Percentage": "48.62%"
+  },
+  {
+    "Champion Name": "Sejuani",
+    "Champion Rank": "73",
+    "Number of Games": "86,225",
+    "Win Percentage": "48.54%"
+  },
+  {
+    "Champion Name": "Volibear",
+    "Champion Rank": "74",
+    "Number of Games": "132,481",
+    "Win Percentage": "48.49%"
+  },
+  {
+    "Champion Name": "Mordekaiser",
+    "Champion Rank": "75",
+    "Number of Games": "62,290",
+    "Win Percentage": "48.49%"
+  },
+  {
+    "Champion Name": "Aurelion Sol",
+    "Champion Rank": "76",
+    "Number of Games": "39,511",
+    "Win Percentage": "48.36%"
+  },
+  {
+    "Champion Name": "Zed",
+    "Champion Rank": "77",
+    "Number of Games": "422,969",
+    "Win Percentage": "48.35%"
+  },
+  {
+    "Champion Name": "Dr. Mundo",
+    "Champion Rank": "78",
+    "Number of Games": "88,970",
+    "Win Percentage": "48.28%"
+  },
+  {
+    "Champion Name": "Riven",
+    "Champion Rank": "79",
+    "Number of Games": "460,756",
+    "Win Percentage": "48.19%"
+  },
+  {
+    "Champion Name": "Twisted Fate",
+    "Champion Rank": "80",
+    "Number of Games": "247,017",
+    "Win Percentage": "48.16%"
+  },
+  {
+    "Champion Name": "Caitlyn",
+    "Champion Rank": "81",
+    "Number of Games": "767,671",
+    "Win Percentage": "48.15%"
+  },
+  {
+    "Champion Name": "LeBlanc",
+    "Champion Rank": "82",
+    "Number of Games": "222,983",
+    "Win Percentage": "48.06%"
+  },
+  {
+    "Champion Name": "Veigar",
+    "Champion Rank": "83",
+    "Number of Games": "271,057",
+    "Win Percentage": "47.92%"
+  },
+  {
+    "Champion Name": "Evelynn",
+    "Champion Rank": "84",
+    "Number of Games": "179,369",
+    "Win Percentage": "47.88%"
+  },
+  {
+    "Champion Name": "Diana",
+    "Champion Rank": "85",
+    "Number of Games": "205,571",
+    "Win Percentage": "47.87%"
+  },
+  {
+    "Champion Name": "Master Yi",
+    "Champion Rank": "86",
+    "Number of Games": "309,379",
+    "Win Percentage": "47.85%"
+  },
+  {
+    "Champion Name": "Akali",
+    "Champion Rank": "87",
+    "Number of Games": "149,984",
+    "Win Percentage": "47.80%"
+  },
+  {
+    "Champion Name": "Heimerdinger",
+    "Champion Rank": "88",
+    "Number of Games": "82,431",
+    "Win Percentage": "47.79%"
+  },
+  {
+    "Champion Name": "Fiddlesticks",
+    "Champion Rank": "89",
+    "Number of Games": "81,750",
+    "Win Percentage": "47.68%"
+  },
+  {
+    "Champion Name": "Katarina",
+    "Champion Rank": "90",
+    "Number of Games": "310,323",
+    "Win Percentage": "47.66%"
+  },
+  {
+    "Champion Name": "Lux",
+    "Champion Rank": "91",
+    "Number of Games": "631,713",
+    "Win Percentage": "47.65%"
+  },
+  {
+    "Champion Name": "Trundle",
+    "Champion Rank": "92",
+    "Number of Games": "113,955",
+    "Win Percentage": "47.62%"
+  },
+  {
+    "Champion Name": "Rengar",
+    "Champion Rank": "93",
+    "Number of Games": "283,434",
+    "Win Percentage": "47.59%"
+  },
+  {
+    "Champion Name": "Orianna",
+    "Champion Rank": "94",
+    "Number of Games": "340,257",
+    "Win Percentage": "47.57%"
+  },
+  {
+    "Champion Name": "Gangplank",
+    "Champion Rank": "95",
+    "Number of Games": "407,131",
+    "Win Percentage": "47.45%"
+  },
+  {
+    "Champion Name": "Sivir",
+    "Champion Rank": "96",
+    "Number of Games": "141,611",
+    "Win Percentage": "47.44%"
+  },
+  {
+    "Champion Name": "Vayne",
+    "Champion Rank": "97",
+    "Number of Games": "563,233",
+    "Win Percentage": "47.36%"
+  },
+  {
+    "Champion Name": "Karma",
+    "Champion Rank": "98",
+    "Number of Games": "314,309",
+    "Win Percentage": "47.35%"
+  },
+  {
+    "Champion Name": "Gragas",
+    "Champion Rank": "99",
+    "Number of Games": "110,074",
+    "Win Percentage": "47.27%"
+  },
+  {
+    "Champion Name": "Braum",
+    "Champion Rank": "100",
+    "Number of Games": "218,314",
+    "Win Percentage": "47.12%"
+  },
+  {
+    "Champion Name": "Lee Sin",
+    "Champion Rank": "101",
+    "Number of Games": "746,202",
+    "Win Percentage": "47.10%"
+  },
+  {
+    "Champion Name": "Aatrox",
+    "Champion Rank": "102",
+    "Number of Games": "50,919",
+    "Win Percentage": "47.10%"
+  },
+  {
+    "Champion Name": "Kindred",
+    "Champion Rank": "103",
+    "Number of Games": "58,057",
+    "Win Percentage": "46.96%"
+  },
+  {
+    "Champion Name": "Viktor",
+    "Champion Rank": "104",
+    "Number of Games": "169,159",
+    "Win Percentage": "46.96%"
+  },
+  {
+    "Champion Name": "Thresh",
+    "Champion Rank": "105",
+    "Number of Games": "838,739",
+    "Win Percentage": "46.93%"
+  },
+  {
+    "Champion Name": "Alistar",
+    "Champion Rank": "106",
+    "Number of Games": "168,682",
+    "Win Percentage": "46.91%"
+  },
+  {
+    "Champion Name": "Taliyah",
+    "Champion Rank": "107",
+    "Number of Games": "72,019",
+    "Win Percentage": "46.62%"
+  },
+  {
+    "Champion Name": "Syndra",
+    "Champion Rank": "108",
+    "Number of Games": "204,335",
+    "Win Percentage": "46.58%"
+  },
+  {
+    "Champion Name": "Kennen",
+    "Champion Rank": "109",
+    "Number of Games": "127,949",
+    "Win Percentage": "46.56%"
+  },
+  {
+    "Champion Name": "Ashe",
+    "Champion Rank": "110",
+    "Number of Games": "481,831",
+    "Win Percentage": "46.54%"
+  },
+  {
+    "Champion Name": "Udyr",
+    "Champion Rank": "111",
+    "Number of Games": "86,098",
+    "Win Percentage": "46.54%"
+  },
+  {
+    "Champion Name": "Kassadin",
+    "Champion Rank": "112",
+    "Number of Games": "88,477",
+    "Win Percentage": "46.43%"
+  },
+  {
+    "Champion Name": "Olaf",
+    "Champion Rank": "113",
+    "Number of Games": "141,219",
+    "Win Percentage": "46.40%"
+  },
+  {
+    "Champion Name": "Poppy",
+    "Champion Rank": "114",
+    "Number of Games": "239,863",
+    "Win Percentage": "46.33%"
+  },
+  {
+    "Champion Name": "Lucian",
+    "Champion Rank": "115",
+    "Number of Games": "390,369",
+    "Win Percentage": "46.31%"
+  },
+  {
+    "Champion Name": "Elise",
+    "Champion Rank": "116",
+    "Number of Games": "142,351",
+    "Win Percentage": "46.21%"
+  },
+  {
+    "Champion Name": "Ezreal",
+    "Champion Rank": "117",
+    "Number of Games": "595,584",
+    "Win Percentage": "46.17%"
+  },
+  {
+    "Champion Name": "Shen",
+    "Champion Rank": "118",
+    "Number of Games": "180,514",
+    "Win Percentage": "46.15%"
+  },
+  {
+    "Champion Name": "Tahm Kench",
+    "Champion Rank": "119",
+    "Number of Games": "122,796",
+    "Win Percentage": "45.85%"
+  },
+  {
+    "Champion Name": "Cho'Gath",
+    "Champion Rank": "120",
+    "Number of Games": "113,051",
+    "Win Percentage": "45.71%"
+  },
+  {
+    "Champion Name": "Tristana",
+    "Champion Rank": "121",
+    "Number of Games": "168,696",
+    "Win Percentage": "45.65%"
+  },
+  {
+    "Champion Name": "Urgot",
+    "Champion Rank": "122",
+    "Number of Games": "32,151",
+    "Win Percentage": "45.63%"
+  },
+  {
+    "Champion Name": "Camille",
+    "Champion Rank": "123",
+    "Number of Games": "145,616",
+    "Win Percentage": "45.50%"
+  },
+  {
+    "Champion Name": "Lissandra",
+    "Champion Rank": "124",
+    "Number of Games": "69,079",
+    "Win Percentage": "45.41%"
+  },
+  {
+    "Champion Name": "Nunu",
+    "Champion Rank": "125",
+    "Number of Games": "36,002",
+    "Win Percentage": "45.24%"
+  },
+  {
+    "Champion Name": "Rek'Sai",
+    "Champion Rank": "126",
+    "Number of Games": "75,425",
+    "Win Percentage": "45.00%"
+  },
+  {
+    "Champion Name": "Cassiopeia",
+    "Champion Rank": "127",
+    "Number of Games": "131,409",
+    "Win Percentage": "44.96%"
+  },
+  {
+    "Champion Name": "Kalista",
+    "Champion Rank": "128",
+    "Number of Games": "71,881",
+    "Win Percentage": "44.93%"
+  },
+  {
+    "Champion Name": "Vladimir",
+    "Champion Rank": "129",
+    "Number of Games": "90,978",
+    "Win Percentage": "44.90%"
+  },
+  {
+    "Champion Name": "Bard",
+    "Champion Rank": "130",
+    "Number of Games": "136,817",
+    "Win Percentage": "44.48%"
+  },
+  {
+    "Champion Name": "Gnar",
+    "Champion Rank": "131",
+    "Number of Games": "96,863",
+    "Win Percentage": "44.41%"
+  },
+  {
+    "Champion Name": "Ryze",
+    "Champion Rank": "132",
+    "Number of Games": "318,547",
+    "Win Percentage": "42.63%"
+  },
+  {
+    "Champion Name": "Nidalee",
+    "Champion Rank": "133",
+    "Number of Games": "75,057",
+    "Win Percentage": "42.35%"
+  },
+  {
+    "Champion Name": "Azir",
+    "Champion Rank": "134",
+    "Number of Games": "80,943",
+    "Win Percentage": "41.41%"
+  }
+]
