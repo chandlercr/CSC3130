@@ -16,7 +16,7 @@ response = []
 browser = webdriver.Chrome('/Users/ChandlerCapps/anaconda/bin/chromedriver')
 urlResponse = browser.get('http://na.op.gg/statistics/champion/')
 urlResponse = browser.find_element_by_class_name('StatisticsFilter').find_element_by_class_name('Content').find_elements_by_class_name('Cell')[2].find_elements_by_class_name('RadioButton')[2].find_element_by_class_name('Label').click()
-urlResponse = browser.find_element_by_class_name('StatisticsFilter').find_element_by_class_name('Content').find_elements_by_class_name('Cell')[0].find_elements_by_class_name('RadioButton')[3].find_element_by_class_name('Label').click()
+urlResponse = browser.find_element_by_class_name('StatisticsFilter').find_element_by_class_name('Content').find_elements_by_class_name('Cell')[0].find_elements_by_class_name('RadioButton')[2].find_element_by_class_name('Label').click()
 
 
 # Wait until the element shows on the Browser after the click
@@ -40,14 +40,14 @@ for pos in anchor.find_all('tr', class_='Row'):
         champRank = pos.find('td', class_='Cell Rank').string
         champNameAnchor = pos.find('td', class_='Cell ChampionName')
         champName = champNameAnchor.find('a').string
-        champBanRate = pos.find('span', class_='Value').string
+        champPickRate = pos.find('span', class_='Value').string
 
         # Make changes to response
-        response.append({'Champion_Name': champName, 'Champion_Rank': champRank, 'Champion_BanRate': champBanRate, 'Date_Scraped': today})
+        response.append({'Champion_Name': champName, 'Champion_Rank': champRank, 'Champion_PickRate': champPickRate, 'Date_Scraped': today})
 
 
 # Write response to JSON file
-postingsFile = '/Users/ChandlerCapps/Desktop/CSC3130/WebProject_Chandler/JSON/OPGG/Daily_Ban/' + today + 'Ban_Ratio.json'
+postingsFile = '/Users/ChandlerCapps/Desktop/CSC3130/WebProject_Chandler/JSON/OPGG/Daily_Pick/' + today + 'Pick_Ratio.json'
 
 with open(postingsFile, 'w') as outfile:
     json.dump(response, outfile, sort_keys=True, indent=2)
