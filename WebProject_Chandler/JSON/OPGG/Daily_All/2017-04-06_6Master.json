@@ -1,0 +1,800 @@
+[
+  {
+    "Champion_Name": "Singed",
+    "Champion_Rank": "1",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "6",
+    "Win_Percentage": "100.00%"
+  },
+  {
+    "Champion_Name": "Ryze",
+    "Champion_Rank": "2",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "6",
+    "Win_Percentage": "100.00%"
+  },
+  {
+    "Champion_Name": "Trundle",
+    "Champion_Rank": "3",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "6",
+    "Win_Percentage": "83.33%"
+  },
+  {
+    "Champion_Name": "Cassiopeia",
+    "Champion_Rank": "4",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "6",
+    "Win_Percentage": "83.33%"
+  },
+  {
+    "Champion_Name": "Shyvana",
+    "Champion_Rank": "5",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "5",
+    "Win_Percentage": "80.00%"
+  },
+  {
+    "Champion_Name": "Sivir",
+    "Champion_Rank": "6",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "5",
+    "Win_Percentage": "80.00%"
+  },
+  {
+    "Champion_Name": "Syndra",
+    "Champion_Rank": "7",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "24",
+    "Win_Percentage": "79.17%"
+  },
+  {
+    "Champion_Name": "Ziggs",
+    "Champion_Rank": "8",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "9",
+    "Win_Percentage": "77.78%"
+  },
+  {
+    "Champion_Name": "Ekko",
+    "Champion_Rank": "9",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "26",
+    "Win_Percentage": "76.92%"
+  },
+  {
+    "Champion_Name": "Nunu",
+    "Champion_Rank": "10",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "8",
+    "Win_Percentage": "75.00%"
+  },
+  {
+    "Champion_Name": "Sion",
+    "Champion_Rank": "11",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "16",
+    "Win_Percentage": "68.75%"
+  },
+  {
+    "Champion_Name": "Blitzcrank",
+    "Champion_Rank": "12",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "32",
+    "Win_Percentage": "68.75%"
+  },
+  {
+    "Champion_Name": "Draven",
+    "Champion_Rank": "13",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "22",
+    "Win_Percentage": "68.18%"
+  },
+  {
+    "Champion_Name": "Janna",
+    "Champion_Rank": "14",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "33",
+    "Win_Percentage": "66.67%"
+  },
+  {
+    "Champion_Name": "Xin Zhao",
+    "Champion_Rank": "15",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "6",
+    "Win_Percentage": "66.67%"
+  },
+  {
+    "Champion_Name": "Kled",
+    "Champion_Rank": "16",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "18",
+    "Win_Percentage": "66.67%"
+  },
+  {
+    "Champion_Name": "Darius",
+    "Champion_Rank": "17",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "21",
+    "Win_Percentage": "66.67%"
+  },
+  {
+    "Champion_Name": "Annie",
+    "Champion_Rank": "18",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "26",
+    "Win_Percentage": "65.38%"
+  },
+  {
+    "Champion_Name": "Gragas",
+    "Champion_Rank": "19",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "49",
+    "Win_Percentage": "65.31%"
+  },
+  {
+    "Champion_Name": "Varus",
+    "Champion_Rank": "20",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "23",
+    "Win_Percentage": "65.22%"
+  },
+  {
+    "Champion_Name": "Karthus",
+    "Champion_Rank": "21",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "17",
+    "Win_Percentage": "64.71%"
+  },
+  {
+    "Champion_Name": "Nidalee",
+    "Champion_Rank": "22",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "11",
+    "Win_Percentage": "63.64%"
+  },
+  {
+    "Champion_Name": "Kassadin",
+    "Champion_Rank": "23",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "85",
+    "Win_Percentage": "63.53%"
+  },
+  {
+    "Champion_Name": "Warwick",
+    "Champion_Rank": "24",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "30",
+    "Win_Percentage": "63.33%"
+  },
+  {
+    "Champion_Name": "Kog'Maw",
+    "Champion_Rank": "25",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "8",
+    "Win_Percentage": "62.50%"
+  },
+  {
+    "Champion_Name": "Taliyah",
+    "Champion_Rank": "26",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "29",
+    "Win_Percentage": "62.07%"
+  },
+  {
+    "Champion_Name": "Camille",
+    "Champion_Rank": "27",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "21",
+    "Win_Percentage": "61.90%"
+  },
+  {
+    "Champion_Name": "Braum",
+    "Champion_Rank": "28",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "23",
+    "Win_Percentage": "60.87%"
+  },
+  {
+    "Champion_Name": "Yasuo",
+    "Champion_Rank": "29",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "56",
+    "Win_Percentage": "60.71%"
+  },
+  {
+    "Champion_Name": "Elise",
+    "Champion_Rank": "30",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "38",
+    "Win_Percentage": "60.53%"
+  },
+  {
+    "Champion_Name": "Tristana",
+    "Champion_Rank": "31",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "5",
+    "Win_Percentage": "60.00%"
+  },
+  {
+    "Champion_Name": "Cho'Gath",
+    "Champion_Rank": "32",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "5",
+    "Win_Percentage": "60.00%"
+  },
+  {
+    "Champion_Name": "Wukong",
+    "Champion_Rank": "33",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "5",
+    "Win_Percentage": "60.00%"
+  },
+  {
+    "Champion_Name": "Fiora",
+    "Champion_Rank": "34",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "50",
+    "Win_Percentage": "60.00%"
+  },
+  {
+    "Champion_Name": "Vladimir",
+    "Champion_Rank": "35",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "42",
+    "Win_Percentage": "59.52%"
+  },
+  {
+    "Champion_Name": "Nautilus",
+    "Champion_Rank": "36",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "27",
+    "Win_Percentage": "59.26%"
+  },
+  {
+    "Champion_Name": "Fiddlesticks",
+    "Champion_Rank": "37",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "22",
+    "Win_Percentage": "59.09%"
+  },
+  {
+    "Champion_Name": "Soraka",
+    "Champion_Rank": "38",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "22",
+    "Win_Percentage": "59.09%"
+  },
+  {
+    "Champion_Name": "Gangplank",
+    "Champion_Rank": "39",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "12",
+    "Win_Percentage": "58.33%"
+  },
+  {
+    "Champion_Name": "Jarvan IV",
+    "Champion_Rank": "40",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "12",
+    "Win_Percentage": "58.33%"
+  },
+  {
+    "Champion_Name": "Jayce",
+    "Champion_Rank": "41",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "36",
+    "Win_Percentage": "58.33%"
+  },
+  {
+    "Champion_Name": "Veigar",
+    "Champion_Rank": "42",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "12",
+    "Win_Percentage": "58.33%"
+  },
+  {
+    "Champion_Name": "Leona",
+    "Champion_Rank": "43",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "12",
+    "Win_Percentage": "58.33%"
+  },
+  {
+    "Champion_Name": "Thresh",
+    "Champion_Rank": "44",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "64",
+    "Win_Percentage": "57.81%"
+  },
+  {
+    "Champion_Name": "Karma",
+    "Champion_Rank": "45",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "97",
+    "Win_Percentage": "57.73%"
+  },
+  {
+    "Champion_Name": "Lucian",
+    "Champion_Rank": "46",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "169",
+    "Win_Percentage": "57.40%"
+  },
+  {
+    "Champion_Name": "Akali",
+    "Champion_Rank": "47",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "28",
+    "Win_Percentage": "57.14%"
+  },
+  {
+    "Champion_Name": "Anivia",
+    "Champion_Rank": "48",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "7",
+    "Win_Percentage": "57.14%"
+  },
+  {
+    "Champion_Name": "Ezreal",
+    "Champion_Rank": "49",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "106",
+    "Win_Percentage": "56.60%"
+  },
+  {
+    "Champion_Name": "Rengar",
+    "Champion_Rank": "50",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "16",
+    "Win_Percentage": "56.25%"
+  },
+  {
+    "Champion_Name": "Ashe",
+    "Champion_Rank": "51",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "32",
+    "Win_Percentage": "56.25%"
+  },
+  {
+    "Champion_Name": "Swain",
+    "Champion_Rank": "52",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "9",
+    "Win_Percentage": "55.56%"
+  },
+  {
+    "Champion_Name": "Tahm Kench",
+    "Champion_Rank": "53",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "9",
+    "Win_Percentage": "55.56%"
+  },
+  {
+    "Champion_Name": "Shaco",
+    "Champion_Rank": "54",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "18",
+    "Win_Percentage": "55.56%"
+  },
+  {
+    "Champion_Name": "Jax",
+    "Champion_Rank": "55",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "9",
+    "Win_Percentage": "55.56%"
+  },
+  {
+    "Champion_Name": "Vayne",
+    "Champion_Rank": "56",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "18",
+    "Win_Percentage": "55.56%"
+  },
+  {
+    "Champion_Name": "Kalista",
+    "Champion_Rank": "57",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "9",
+    "Win_Percentage": "55.56%"
+  },
+  {
+    "Champion_Name": "Zed",
+    "Champion_Rank": "58",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "18",
+    "Win_Percentage": "55.56%"
+  },
+  {
+    "Champion_Name": "Lee Sin",
+    "Champion_Rank": "59",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "119",
+    "Win_Percentage": "54.62%"
+  },
+  {
+    "Champion_Name": "Pantheon",
+    "Champion_Rank": "60",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "33",
+    "Win_Percentage": "54.55%"
+  },
+  {
+    "Champion_Name": "Nami",
+    "Champion_Rank": "61",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "33",
+    "Win_Percentage": "54.55%"
+  },
+  {
+    "Champion_Name": "Renekton",
+    "Champion_Rank": "62",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "34",
+    "Win_Percentage": "52.94%"
+  },
+  {
+    "Champion_Name": "Ahri",
+    "Champion_Rank": "63",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "72",
+    "Win_Percentage": "52.78%"
+  },
+  {
+    "Champion_Name": "LeBlanc",
+    "Champion_Rank": "64",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "23",
+    "Win_Percentage": "52.17%"
+  },
+  {
+    "Champion_Name": "Orianna",
+    "Champion_Rank": "65",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "48",
+    "Win_Percentage": "52.08%"
+  },
+  {
+    "Champion_Name": "Fizz",
+    "Champion_Rank": "66",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "56",
+    "Win_Percentage": "51.79%"
+  },
+  {
+    "Champion_Name": "Kha'Zix",
+    "Champion_Rank": "67",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "43",
+    "Win_Percentage": "51.16%"
+  },
+  {
+    "Champion_Name": "Talon",
+    "Champion_Rank": "68",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "50",
+    "Win_Percentage": "50.00%"
+  },
+  {
+    "Champion_Name": "Zac",
+    "Champion_Rank": "69",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "18",
+    "Win_Percentage": "50.00%"
+  },
+  {
+    "Champion_Name": "Evelynn",
+    "Champion_Rank": "70",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "10",
+    "Win_Percentage": "50.00%"
+  },
+  {
+    "Champion_Name": "Zyra",
+    "Champion_Rank": "71",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "10",
+    "Win_Percentage": "50.00%"
+  },
+  {
+    "Champion_Name": "Tryndamere",
+    "Champion_Rank": "72",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "12",
+    "Win_Percentage": "50.00%"
+  },
+  {
+    "Champion_Name": "Jhin",
+    "Champion_Rank": "73",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "33",
+    "Win_Percentage": "48.48%"
+  },
+  {
+    "Champion_Name": "Irelia",
+    "Champion_Rank": "74",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "23",
+    "Win_Percentage": "47.83%"
+  },
+  {
+    "Champion_Name": "Twisted Fate",
+    "Champion_Rank": "75",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "21",
+    "Win_Percentage": "47.62%"
+  },
+  {
+    "Champion_Name": "Ivern",
+    "Champion_Rank": "76",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "21",
+    "Win_Percentage": "47.62%"
+  },
+  {
+    "Champion_Name": "Vel'Koz",
+    "Champion_Rank": "77",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "13",
+    "Win_Percentage": "46.15%"
+  },
+  {
+    "Champion_Name": "Alistar",
+    "Champion_Rank": "78",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "13",
+    "Win_Percentage": "46.15%"
+  },
+  {
+    "Champion_Name": "Katarina",
+    "Champion_Rank": "79",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "13",
+    "Win_Percentage": "46.15%"
+  },
+  {
+    "Champion_Name": "Rumble",
+    "Champion_Rank": "80",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "35",
+    "Win_Percentage": "45.71%"
+  },
+  {
+    "Champion_Name": "Teemo",
+    "Champion_Rank": "81",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "18",
+    "Win_Percentage": "44.44%"
+  },
+  {
+    "Champion_Name": "Gnar",
+    "Champion_Rank": "82",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "9",
+    "Win_Percentage": "44.44%"
+  },
+  {
+    "Champion_Name": "Lux",
+    "Champion_Rank": "83",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "21",
+    "Win_Percentage": "42.86%"
+  },
+  {
+    "Champion_Name": "Morgana",
+    "Champion_Rank": "84",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "14",
+    "Win_Percentage": "42.86%"
+  },
+  {
+    "Champion_Name": "Master Yi",
+    "Champion_Rank": "85",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "7",
+    "Win_Percentage": "42.86%"
+  },
+  {
+    "Champion_Name": "Hecarim",
+    "Champion_Rank": "86",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "14",
+    "Win_Percentage": "42.86%"
+  },
+  {
+    "Champion_Name": "Amumu",
+    "Champion_Rank": "87",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "26",
+    "Win_Percentage": "42.31%"
+  },
+  {
+    "Champion_Name": "Kennen",
+    "Champion_Rank": "88",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "12",
+    "Win_Percentage": "41.67%"
+  },
+  {
+    "Champion_Name": "Olaf",
+    "Champion_Rank": "89",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "12",
+    "Win_Percentage": "41.67%"
+  },
+  {
+    "Champion_Name": "Malzahar",
+    "Champion_Rank": "90",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "24",
+    "Win_Percentage": "41.67%"
+  },
+  {
+    "Champion_Name": "Caitlyn",
+    "Champion_Rank": "91",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "73",
+    "Win_Percentage": "41.10%"
+  },
+  {
+    "Champion_Name": "Lissandra",
+    "Champion_Rank": "92",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "5",
+    "Win_Percentage": "40.00%"
+  },
+  {
+    "Champion_Name": "Shen",
+    "Champion_Rank": "93",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "15",
+    "Win_Percentage": "40.00%"
+  },
+  {
+    "Champion_Name": "Viktor",
+    "Champion_Rank": "94",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "15",
+    "Win_Percentage": "40.00%"
+  },
+  {
+    "Champion_Name": "Riven",
+    "Champion_Rank": "95",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "28",
+    "Win_Percentage": "39.29%"
+  },
+  {
+    "Champion_Name": "Lulu",
+    "Champion_Rank": "96",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "44",
+    "Win_Percentage": "38.64%"
+  },
+  {
+    "Champion_Name": "Aurelion Sol",
+    "Champion_Rank": "97",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "8",
+    "Win_Percentage": "37.50%"
+  },
+  {
+    "Champion_Name": "Poppy",
+    "Champion_Rank": "98",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "16",
+    "Win_Percentage": "37.50%"
+  },
+  {
+    "Champion_Name": "Rek'Sai",
+    "Champion_Rank": "99",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "11",
+    "Win_Percentage": "36.36%"
+  },
+  {
+    "Champion_Name": "Bard",
+    "Champion_Rank": "100",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "23",
+    "Win_Percentage": "34.78%"
+  },
+  {
+    "Champion_Name": "Twitch",
+    "Champion_Rank": "101",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "26",
+    "Win_Percentage": "34.62%"
+  },
+  {
+    "Champion_Name": "Sona",
+    "Champion_Rank": "102",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "6",
+    "Win_Percentage": "33.33%"
+  },
+  {
+    "Champion_Name": "Taric",
+    "Champion_Rank": "103",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "6",
+    "Win_Percentage": "33.33%"
+  },
+  {
+    "Champion_Name": "Brand",
+    "Champion_Rank": "104",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "16",
+    "Win_Percentage": "31.25%"
+  },
+  {
+    "Champion_Name": "Zilean",
+    "Champion_Rank": "105",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "10",
+    "Win_Percentage": "30.00%"
+  },
+  {
+    "Champion_Name": "Rammus",
+    "Champion_Rank": "106",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "7",
+    "Win_Percentage": "28.57%"
+  },
+  {
+    "Champion_Name": "Graves",
+    "Champion_Rank": "107",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "22",
+    "Win_Percentage": "27.27%"
+  },
+  {
+    "Champion_Name": "Miss Fortune",
+    "Champion_Rank": "108",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "12",
+    "Win_Percentage": "25.00%"
+  },
+  {
+    "Champion_Name": "Galio",
+    "Champion_Rank": "109",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "13",
+    "Win_Percentage": "23.08%"
+  },
+  {
+    "Champion_Name": "Yorick",
+    "Champion_Rank": "110",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "5",
+    "Win_Percentage": "20.00%"
+  },
+  {
+    "Champion_Name": "Malphite",
+    "Champion_Rank": "111",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "6",
+    "Win_Percentage": "16.67%"
+  },
+  {
+    "Champion_Name": "Illaoi",
+    "Champion_Rank": "112",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "7",
+    "Win_Percentage": "14.29%"
+  },
+  {
+    "Champion_Name": "Jinx",
+    "Champion_Rank": "113",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "5",
+    "Win_Percentage": "0.00%"
+  },
+  {
+    "Champion_Name": "Xerath",
+    "Champion_Rank": "114",
+    "Date_Scraped": "2017-04-06",
+    "Number_of_Games": "5",
+    "Win_Percentage": "0.00%"
+  }
+]
