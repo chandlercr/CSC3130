@@ -1,0 +1,818 @@
+[
+  {
+    "Champion_Name": "Xayah",
+    "Champion_PickRate": "36.13%",
+    "Champion_Rank": "1",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Lucian",
+    "Champion_PickRate": "35.04%",
+    "Champion_Rank": "2",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Rakan",
+    "Champion_PickRate": "33.98%",
+    "Champion_Rank": "3",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Lee Sin",
+    "Champion_PickRate": "28.33%",
+    "Champion_Rank": "4",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Caitlyn",
+    "Champion_PickRate": "25.72%",
+    "Champion_Rank": "5",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Thresh",
+    "Champion_PickRate": "22.12%",
+    "Champion_Rank": "6",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Ahri",
+    "Champion_PickRate": "19.78%",
+    "Champion_Rank": "7",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Ezreal",
+    "Champion_PickRate": "19.39%",
+    "Champion_Rank": "8",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Yasuo",
+    "Champion_PickRate": "15.65%",
+    "Champion_Rank": "9",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Master Yi",
+    "Champion_PickRate": "14.45%",
+    "Champion_Rank": "10",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Lux",
+    "Champion_PickRate": "13.90%",
+    "Champion_Rank": "11",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Vayne",
+    "Champion_PickRate": "13.75%",
+    "Champion_Rank": "12",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Graves",
+    "Champion_PickRate": "13.43%",
+    "Champion_Rank": "13",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Lulu",
+    "Champion_PickRate": "13.16%",
+    "Champion_Rank": "14",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Orianna",
+    "Champion_PickRate": "13.01%",
+    "Champion_Rank": "15",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Fizz",
+    "Champion_PickRate": "12.91%",
+    "Champion_Rank": "16",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Warwick",
+    "Champion_PickRate": "12.26%",
+    "Champion_Rank": "17",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Darius",
+    "Champion_PickRate": "12.20%",
+    "Champion_Rank": "18",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Blitzcrank",
+    "Champion_PickRate": "12.16%",
+    "Champion_Rank": "19",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Ashe",
+    "Champion_PickRate": "12.10%",
+    "Champion_Rank": "20",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Zed",
+    "Champion_PickRate": "11.02%",
+    "Champion_Rank": "21",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Gangplank",
+    "Champion_PickRate": "10.86%",
+    "Champion_Rank": "22",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Amumu",
+    "Champion_PickRate": "10.80%",
+    "Champion_Rank": "23",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Ekko",
+    "Champion_PickRate": "10.70%",
+    "Champion_Rank": "24",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Jinx",
+    "Champion_PickRate": "10.30%",
+    "Champion_Rank": "25",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Karma",
+    "Champion_PickRate": "10.21%",
+    "Champion_Rank": "26",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Renekton",
+    "Champion_PickRate": "10.10%",
+    "Champion_Rank": "27",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Morgana",
+    "Champion_PickRate": "10.06%",
+    "Champion_Rank": "28",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Riven",
+    "Champion_PickRate": "10.01%",
+    "Champion_Rank": "29",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Nami",
+    "Champion_PickRate": "9.84%",
+    "Champion_Rank": "30",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Kha'Zix",
+    "Champion_PickRate": "9.82%",
+    "Champion_Rank": "31",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Nautilus",
+    "Champion_PickRate": "9.73%",
+    "Champion_Rank": "32",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Jax",
+    "Champion_PickRate": "9.32%",
+    "Champion_Rank": "33",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Janna",
+    "Champion_PickRate": "9.08%",
+    "Champion_Rank": "34",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Brand",
+    "Champion_PickRate": "9.05%",
+    "Champion_Rank": "35",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Sona",
+    "Champion_PickRate": "8.95%",
+    "Champion_Rank": "36",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Gragas",
+    "Champion_PickRate": "8.60%",
+    "Champion_Rank": "37",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Jhin",
+    "Champion_PickRate": "8.40%",
+    "Champion_Rank": "38",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Fiora",
+    "Champion_PickRate": "8.37%",
+    "Champion_Rank": "39",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Annie",
+    "Champion_PickRate": "8.29%",
+    "Champion_Rank": "40",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Teemo",
+    "Champion_PickRate": "8.27%",
+    "Champion_Rank": "41",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Draven",
+    "Champion_PickRate": "8.13%",
+    "Champion_Rank": "42",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Twitch",
+    "Champion_PickRate": "8.09%",
+    "Champion_Rank": "43",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Soraka",
+    "Champion_PickRate": "7.96%",
+    "Champion_Rank": "44",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Tryndamere",
+    "Champion_PickRate": "7.90%",
+    "Champion_Rank": "45",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Leona",
+    "Champion_PickRate": "7.67%",
+    "Champion_Rank": "46",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Zac",
+    "Champion_PickRate": "7.64%",
+    "Champion_Rank": "47",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Vladimir",
+    "Champion_PickRate": "7.59%",
+    "Champion_Rank": "48",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Miss Fortune",
+    "Champion_PickRate": "7.55%",
+    "Champion_Rank": "49",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Galio",
+    "Champion_PickRate": "7.45%",
+    "Champion_Rank": "50",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Xin Zhao",
+    "Champion_PickRate": "7.36%",
+    "Champion_Rank": "51",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Pantheon",
+    "Champion_PickRate": "6.97%",
+    "Champion_Rank": "52",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Nasus",
+    "Champion_PickRate": "6.89%",
+    "Champion_Rank": "53",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Elise",
+    "Champion_PickRate": "6.62%",
+    "Champion_Rank": "54",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Vi",
+    "Champion_PickRate": "6.60%",
+    "Champion_Rank": "55",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Veigar",
+    "Champion_PickRate": "6.59%",
+    "Champion_Rank": "56",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Bard",
+    "Champion_PickRate": "6.57%",
+    "Champion_Rank": "57",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Malphite",
+    "Champion_PickRate": "6.57%",
+    "Champion_Rank": "58",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Kassadin",
+    "Champion_PickRate": "6.56%",
+    "Champion_Rank": "59",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Twisted Fate",
+    "Champion_PickRate": "6.56%",
+    "Champion_Rank": "60",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Udyr",
+    "Champion_PickRate": "6.42%",
+    "Champion_Rank": "61",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Hecarim",
+    "Champion_PickRate": "6.36%",
+    "Champion_Rank": "62",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Zyra",
+    "Champion_PickRate": "6.26%",
+    "Champion_Rank": "63",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Syndra",
+    "Champion_PickRate": "6.18%",
+    "Champion_Rank": "64",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Braum",
+    "Champion_PickRate": "6.13%",
+    "Champion_Rank": "65",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Jarvan IV",
+    "Champion_PickRate": "6.04%",
+    "Champion_Rank": "66",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Katarina",
+    "Champion_PickRate": "6.01%",
+    "Champion_Rank": "67",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Shaco",
+    "Champion_PickRate": "5.87%",
+    "Champion_Rank": "68",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Jayce",
+    "Champion_PickRate": "5.80%",
+    "Champion_Rank": "69",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Swain",
+    "Champion_PickRate": "5.62%",
+    "Champion_Rank": "70",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Irelia",
+    "Champion_PickRate": "5.59%",
+    "Champion_Rank": "71",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Shen",
+    "Champion_PickRate": "5.51%",
+    "Champion_Rank": "72",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Garen",
+    "Champion_PickRate": "5.46%",
+    "Champion_Rank": "73",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Kog'Maw",
+    "Champion_PickRate": "5.39%",
+    "Champion_Rank": "74",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Akali",
+    "Champion_PickRate": "5.27%",
+    "Champion_Rank": "75",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Ivern",
+    "Champion_PickRate": "5.26%",
+    "Champion_Rank": "76",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Anivia",
+    "Champion_PickRate": "5.16%",
+    "Champion_Rank": "77",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Talon",
+    "Champion_PickRate": "5.10%",
+    "Champion_Rank": "78",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Evelynn",
+    "Champion_PickRate": "5.08%",
+    "Champion_Rank": "79",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Kennen",
+    "Champion_PickRate": "4.94%",
+    "Champion_Rank": "80",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Alistar",
+    "Champion_PickRate": "4.92%",
+    "Champion_Rank": "81",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Vel'Koz",
+    "Champion_PickRate": "4.92%",
+    "Champion_Rank": "82",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Rumble",
+    "Champion_PickRate": "4.76%",
+    "Champion_Rank": "83",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Wukong",
+    "Champion_PickRate": "4.72%",
+    "Champion_Rank": "84",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "LeBlanc",
+    "Champion_PickRate": "4.62%",
+    "Champion_Rank": "85",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Varus",
+    "Champion_PickRate": "4.52%",
+    "Champion_Rank": "86",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Tristana",
+    "Champion_PickRate": "4.49%",
+    "Champion_Rank": "87",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Viktor",
+    "Champion_PickRate": "4.45%",
+    "Champion_Rank": "88",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Kled",
+    "Champion_PickRate": "4.40%",
+    "Champion_Rank": "89",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Ziggs",
+    "Champion_PickRate": "4.37%",
+    "Champion_Rank": "90",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Cho'Gath",
+    "Champion_PickRate": "4.33%",
+    "Champion_Rank": "91",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Rengar",
+    "Champion_PickRate": "4.32%",
+    "Champion_Rank": "92",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Malzahar",
+    "Champion_PickRate": "4.00%",
+    "Champion_Rank": "93",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Xerath",
+    "Champion_PickRate": "3.68%",
+    "Champion_Rank": "94",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Diana",
+    "Champion_PickRate": "3.66%",
+    "Champion_Rank": "95",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Kalista",
+    "Champion_PickRate": "3.51%",
+    "Champion_Rank": "96",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Aatrox",
+    "Champion_PickRate": "3.50%",
+    "Champion_Rank": "97",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Lissandra",
+    "Champion_PickRate": "3.46%",
+    "Champion_Rank": "98",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Fiddlesticks",
+    "Champion_PickRate": "3.44%",
+    "Champion_Rank": "99",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Illaoi",
+    "Champion_PickRate": "3.43%",
+    "Champion_Rank": "100",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Olaf",
+    "Champion_PickRate": "3.39%",
+    "Champion_Rank": "101",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Kayle",
+    "Champion_PickRate": "3.39%",
+    "Champion_Rank": "102",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Sion",
+    "Champion_PickRate": "3.34%",
+    "Champion_Rank": "103",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Poppy",
+    "Champion_PickRate": "3.24%",
+    "Champion_Rank": "104",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Taliyah",
+    "Champion_PickRate": "3.16%",
+    "Champion_Rank": "105",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Zilean",
+    "Champion_PickRate": "3.13%",
+    "Champion_Rank": "106",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Nunu",
+    "Champion_PickRate": "3.04%",
+    "Champion_Rank": "107",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Volibear",
+    "Champion_PickRate": "3.00%",
+    "Champion_Rank": "108",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Shyvana",
+    "Champion_PickRate": "2.88%",
+    "Champion_Rank": "109",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Nocturne",
+    "Champion_PickRate": "2.81%",
+    "Champion_Rank": "110",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Gnar",
+    "Champion_PickRate": "2.81%",
+    "Champion_Rank": "111",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Camille",
+    "Champion_PickRate": "2.70%",
+    "Champion_Rank": "112",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Tahm Kench",
+    "Champion_PickRate": "2.61%",
+    "Champion_Rank": "113",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Ryze",
+    "Champion_PickRate": "2.60%",
+    "Champion_Rank": "114",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Singed",
+    "Champion_PickRate": "2.57%",
+    "Champion_Rank": "115",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Cassiopeia",
+    "Champion_PickRate": "2.57%",
+    "Champion_Rank": "116",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Dr. Mundo",
+    "Champion_PickRate": "2.57%",
+    "Champion_Rank": "117",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Nidalee",
+    "Champion_PickRate": "2.54%",
+    "Champion_Rank": "118",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Sivir",
+    "Champion_PickRate": "2.50%",
+    "Champion_Rank": "119",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Yorick",
+    "Champion_PickRate": "2.44%",
+    "Champion_Rank": "120",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Trundle",
+    "Champion_PickRate": "2.38%",
+    "Champion_Rank": "121",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Rammus",
+    "Champion_PickRate": "2.37%",
+    "Champion_Rank": "122",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Taric",
+    "Champion_PickRate": "2.32%",
+    "Champion_Rank": "123",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Karthus",
+    "Champion_PickRate": "2.24%",
+    "Champion_Rank": "124",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Maokai",
+    "Champion_PickRate": "2.19%",
+    "Champion_Rank": "125",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Sejuani",
+    "Champion_PickRate": "2.06%",
+    "Champion_Rank": "126",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Kindred",
+    "Champion_PickRate": "1.95%",
+    "Champion_Rank": "127",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Quinn",
+    "Champion_PickRate": "1.89%",
+    "Champion_Rank": "128",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Aurelion Sol",
+    "Champion_PickRate": "1.79%",
+    "Champion_Rank": "129",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Azir",
+    "Champion_PickRate": "1.61%",
+    "Champion_Rank": "130",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Heimerdinger",
+    "Champion_PickRate": "1.58%",
+    "Champion_Rank": "131",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Mordekaiser",
+    "Champion_PickRate": "1.34%",
+    "Champion_Rank": "132",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Rek'Sai",
+    "Champion_PickRate": "1.16%",
+    "Champion_Rank": "133",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Skarner",
+    "Champion_PickRate": "1.00%",
+    "Champion_Rank": "134",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Corki",
+    "Champion_PickRate": "0.87%",
+    "Champion_Rank": "135",
+    "Date_Scraped": "2017-04-20"
+  },
+  {
+    "Champion_Name": "Urgot",
+    "Champion_PickRate": "0.58%",
+    "Champion_Rank": "136",
+    "Date_Scraped": "2017-04-20"
+  }
+]
